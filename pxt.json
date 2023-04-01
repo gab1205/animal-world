@@ -1,0 +1,30 @@
+{
+    "name": "Animal World",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "mbit": "github:lzty634158/yahboom_mbit_en#27e31bda76516505fa37f28e5f57671348b4e393"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v3.0.60",
+        "tag": "v3.0.60",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/07e6457bfa581487f1ec30941556f426bd071cb0",
+        "target": "5.0.12",
+        "pxt": "6.0.35",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
